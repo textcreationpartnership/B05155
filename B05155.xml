@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act anent presentation of ministers. At Edinburgh, 18. June, 1661</title>
+            <author>Scotland. Parliament. Committee of Estates.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05155</idno>
+            <idno type="STC">Wing S1041</idno>
+            <idno type="STC">ESTC R183855</idno>
+            <idno type="EEBO-CITATION">52529190</idno>
+            <idno type="OCLC">ocm 52529190</idno>
+            <idno type="VID">178879</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05155)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178879)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2774:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act anent presentation of ministers. At Edinburgh, 18. June, 1661</title>
+                  <author>Scotland. Parliament. Committee of Estates.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Evan Tyler, Printer to the Kings most excellent Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Royal arms at head of text; initial letter.</note>
+                  <note>Signed: A. Primerose, Cls. Reg.</note>
+                  <note>Imperfect: creased with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+                  <note>With: The oath of allegiance.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  Clergy --  Appointment, call, and election --  Early works to 1800.</term>
+               <term>Church and state --  Scotland --  17th century --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:178879:1"/>
+            <!-- PDF PAGE 8 -->
+            <head>
+               <figure>
+                  <p>C R</p>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>ACT Anent Preſentation of MINISTERS.</head>
+            <opener>
+               <dateline>At Edinburgh, <date>18. June, 1661.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch as the Kings moſt excellent <hi>Majeſty,</hi> conſidering how neceſſar it is for the right and orderly adminiſtration of Gods Worſhip, and the exer<g ref="char:EOLhyphen"/>ciſes of Religion, and for keeping of His good Subjects <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ithin their duties they owe to God, to His <hi>Majeſty,</hi> to their native Countrey and fellow Subjects, eſpecially at this time, after ſo many confuſions and diſtractions, both among Church-men and others; That more then ordinary care be had in preſenting of Miniſters to all ſuch Kirks as are, or ſhall be vacand within this Kingdom; hath given particular Commiſsion under His great Seal, as to all Preſentations, to all Perſonages, Vicarag<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and other Be<g ref="char:EOLhyphen"/>nefices, and Kirks at His <hi>Majeſties</hi> preſentation. And a<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to all other Be<g ref="char:EOLhyphen"/>nefices and Kirks, whereof the preſentation belongs to any other Patron or Patrons whatſoever, His <hi>Majeſty,</hi> with advice and conſent of His eſtates of Parliament, ſtatutes and or<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ains, That all Patrons or Perſons whatſoever, who hath, or pretends any right to the Preſentatio<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, to any Patro<g ref="char:EOLhyphen"/>nages, Vicarages or other Benefices of cure, Kirks, or modified Stipends, be caref<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll in all time com<g ref="char:EOLhyphen"/>ing, that Preſentations to theſe Benefices, Kirks or Stipends, be granted by the<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to ſuch perſons only, as ſhall give ſufficient evidence of their Piety, Loyalty, Literature and peace<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble Diſpoſition; And ſhall, in preſence of the Patron or his Atturney, and of the Sheriff of the Shir<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, Stewart of the Stewartrie, or heretable Baily or Commiſſar of the bounds, if it be in the Countrey <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd of the Magi<g ref="char:EOLhyphen"/>ſtrates of the Burroughs within the Burgh, before the granting and their accept<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng the Preſenta<g ref="char:EOLhyphen"/>tion, take and ſubſcribe the Oath of Alleagiance, the ſaid Sheriff, Stewart, Baily, Commiſſar and Magiſtrates having firſt taken the Oath themſelves. And it is hereby declared, That if any perſon who hath not ſo taken the Oath of Alleagiance, ſhall be preſented by any Patron, not only ſhall the Preſentation be void and null of it ſelf, but the right of the Patronage, as to that vacancy, ſhall belong to the Kings <hi>Majeſty,</hi> and the Patrons be repute diſ-affected to His <hi>Majeſties</hi> Government, and con<g ref="char:EOLhyphen"/>temners of His Royal Authority. And ordains thir preſents to be printed and publiſhed at the Mercat Croſſes, that none pretend ignorance.</p>
+            <closer>
+               <signed>
+                  <hi>A. Primeroſe,</hi> Cls. Reg.</signed>
+            </closer>
+         </div>
+         <div type="oath">
+            <head>The OATH of ALLEAGIANCE.</head>
+            <p>
+               <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> for teſtification of my faithfull obedience to my moſt Gracious and re-doubted Sove<g ref="char:EOLhyphen"/>raign, CHARLES King of <hi>Great Brittain, France</hi> and <hi>Ireland,</hi> Defender of the Faith, &amp;c. Affirm, teſtifie, and declare by <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his my ſolemn Oath, That I acknowledge my ſaid Soveraign only Supream Governour of this Kingdom, over all perſons, and in all cauſes; and that no Forreign Prince, Power, State or Perſon, Civil or Eccleſiaſtick, hath any Juriſ<g ref="char:EOLhyphen"/>diction, Power or Superiority over the ſame; and therefore I do utterly renounce and forſake all Forreign Power, Juriſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ictions and Authorities, and ſhall at my utmoſt power, defend, aſſiſt and maintain His MAJESTIES Juriſdiction <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oreſaid, againſt all deadlie, and ſhall never decline His MAJESTIES Power and Juriſdiction, as I ſhall anſwer to GOD.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by <hi>Evan Tyler,</hi> Printer to the Kings moſt Excellent Majeſty, 1661.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
